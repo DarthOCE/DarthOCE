@@ -5,7 +5,7 @@
 I'm available on [Twitter](https://twitter.com/DarthOCE1), [Reddit](https://www.reddit.com/user/liamdagamer8667) [GitHub](https://github.com/T3ARED)
 
 ### 📖 Languages I've practiced
-Java, Python, Node.js, Objective-C, HTML, CSS, JS, Python and JSON.
+Java, Python, Node.js, Objective-C, HTML, CSS, JS, Python, JSON, Lua, Batchfile and C#.
 
 ### 📊 Stats
 <span>
