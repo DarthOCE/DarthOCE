@@ -1,7 +1,7 @@
 # Hi, Im Liam
 
 ### 💻 Repo & social media
-**My repo : [darthoce.me](https://darthoce.me**)(available [here](https://github.com/T3ARED/repo))  
+My repo : [darthoce.me](https://darthoce.me**) (available [here](https://github.com/T3ARED/repo))  
 I'm available on [Twitter](https://twitter.com/DarthOCE1), [Reddit](https://www.reddit.com/user/liamdagamer8667) [GitHub](https://github.com/T3ARED)
 
 ### 📖 Languages I've practiced
