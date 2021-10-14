@@ -1,14 +1,22 @@
-# Hi, Im Liam
+![Header](./header.png)
 
-### 💻 Repo & social media
-My repo : [darthoce.me](https://darthoce.me) (available [here](https://github.com/T3ARED/repo))  
-I'm available on [Twitter](https://twitter.com/DarthOCE1), [Reddit](https://www.reddit.com/user/liamdagamer8667) [GitHub](https://github.com/T3ARED)
+<h1 align="center">DarthOCE</h1>
+<p align="center">Intermediate Developer, Java, Python, Node.js, Objective-C, HTML, CSS, JS, Python, JSON, Lua, Batchfile and C#</p>
+<a href="https://github.com/Gowixx">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=T3ARED" alt="Profile Views">
+  </p>
+</a>
 
-### 📖 Languages I've practiced
-Java, Python, Node.js, Objective-C, HTML, CSS, JS, Python, JSON, Lua, Batchfile and C#.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=T3ARED&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+</p>
 
-### 📊 Stats
-<span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3ARED&hide=Makefile&layout=compact&hide_border=true&theme=react&bg_color=30,659999,f4791f&title_color=fff&text_color=fff" alt="DarthOCE's Most Used Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarthOCE&hide_title=true&show_icons=true&hide_border=true&line_height=25&count_private=true&include_all_commits=true&bg_color=30,f4791f,659999&title_color=fff&text_color=fff&icon_color=fff" alt="DarthOCE's GitHub Stats">
-</span>
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/693502062650064906.png" />
+  <br />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=T3ARED&theme=nord&margin-w=15&margin-h=1&column=6" />
+</p>
+
+![Footer](./footer.png)
