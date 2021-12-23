@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h1 align="center">DarthOCE</h1>
-<p align="center">Intermediate Developer, Java, Python, Node.js, Objective-C, HTML, CSS, JS, JSON, Lua, Batchfile and C#</p>
+<p align="center">Intermediate Developer, Java, Python, Node.js, Swift, HTML, CSS, JS, JSON, Lua, Batchfile and C#</p>
 <a href="https://github.com/Gowixx">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=T3ARED" alt="Profile Views">
