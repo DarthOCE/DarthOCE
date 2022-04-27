@@ -1,8 +1,8 @@
 ![Header](./header.png)
 
 <h1 align="center">DarthOCE</h1>
-<p align="center">Intermediate Developer, Java, Python, Node.js, Swift, HTML, CSS, JS, JSON, Lua, Batchfile and C#</p>
-<a href="https://github.com/Gowixx">
+<p align="center">Intermediate Developer, Python, Node.js, HTML, CSS, and C#; Learning C++</p>
+<a href="https://github.com/DarthOCE">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=T3ARED" alt="Profile Views">
   </p>
